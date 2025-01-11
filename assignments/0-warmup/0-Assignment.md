@@ -40,7 +40,7 @@ https://github.com/Mkb-south/cs283-winter2425-Micah-Brinson
 
 4. Briefly describe what you want to get out of this class.
 
-I want to learn more about programming in operating systems and closer to the hardware in general.
+I want to learn more about programming operating systems and closer to the hardware in general.
 
 5. Briefly describe any concerns you might be having with being successful in this class (if any).
 
